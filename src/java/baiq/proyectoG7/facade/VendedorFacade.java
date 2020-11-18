@@ -21,5 +21,9 @@ public class VendedorFacade {
     protected EntityManager getEntityManager() {
         return em;
     }
+
+    
+    
+  
     
 }
